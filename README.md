@@ -22,7 +22,7 @@ LegadoSeguro es una aplicación web que permite a una persona registrar sus acti
 
 | Integrante | GitHub |
 |---|---|
-| Ángeles Méndez, Kiara Delina | [@aakiaradelina-boop](https://github.com/aakiaradelina-boop) |
+| Angeles Méndez, Kiara Delina | [@aakiaradelina-boop](https://github.com/aakiaradelina-boop) |
 | Pardo Acosta, Katheryn Stephany | [@KatherynPardo](https://github.com/KatherynPardo) |
 
 ---
